@@ -1,0 +1,6 @@
+# app-ads.txt file for mobile app advertising verification
+# Generated for Publisher ID: pub-5753387919513078
+# Domain: oguzgynk.github.io
+# IAB Tech Lab specification compliant
+
+google.com, pub-5753387919513078, DIRECT, f08c47fec0942fa0
