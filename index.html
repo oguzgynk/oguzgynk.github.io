@@ -3,10 +3,11 @@
 <head>
 
     <script>
-// AdMob app-ads.txt redirect
-if (window.location.pathname === '/app-ads.txt') {
-    window.location.replace('/app_ads.txt');
-}
+document.addEventListener('DOMContentLoaded', function() {
+    if (window.location.pathname === '/app-ads.txt') {
+        window.location.replace('/app_ads.txt');
+    }
+});
 </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
