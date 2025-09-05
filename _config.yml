@@ -1,5 +1,11 @@
+permalink: none
 include:
   - "app-ads.txt"
-  - ".nojekyll"
 
 plugins: []
+
+defaults:
+  - scope:
+      path: "app-ads.txt"
+    values:
+      layout: none
