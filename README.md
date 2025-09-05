@@ -1,0 +1,1 @@
+# oguzgynk.github.io
